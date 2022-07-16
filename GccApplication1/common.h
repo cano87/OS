@@ -16,6 +16,7 @@
 
 typedef unsigned char U8BIT;
 typedef unsigned int U16BIT;
+typedef signed char S8BIT;
 
 
 
