@@ -16,7 +16,7 @@
 
 const task_t TaskTable[] =
 {
-	{blinkBlueled, OS_500MS},
+	{blinkBlueled, OS_100MS},
 	{blinkGreenled, OS_500MS},
 	{blinkYellowled, OS_500MS}
 };
